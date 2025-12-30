@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="static/img/ym.png" alt="Yandex Music Plugin" width="150">
+  <img src="com.judd1.yandex_music.sdPlugin/static/img/ym.png" alt="Yandex Music Plugin" width="150">
 </p>
 
 <p align="center">
