@@ -4,9 +4,7 @@
   <a href="README.md">🇬🇧 English</a> | <a href="README_RU.md">🇷🇺 Русский</a>
 </p>
 
-<p align="center">
-  <img src="com.judd1.yandex_music.sdPlugin/static/img/ym.png" alt="Yandex Music Plugin" width="150">
-</p>
+![](com.judd1.yandex_music.sdPlugin/static/img/main.png)
 
 <p align="center">
   <b>Control Yandex Music directly from your Stream Deck</b><br>

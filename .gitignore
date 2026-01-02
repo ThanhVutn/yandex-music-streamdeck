@@ -8,6 +8,4 @@ dist/
 build/
 *.spec
 *.zip
-backups/
-quick_remover.py
 .DS_Store
